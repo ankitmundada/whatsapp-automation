@@ -10,7 +10,7 @@ Steps:
 
 *Command*
 ```
-python whatsapp.py --template message.template --data dotpe-sellers-data-results.cs
+python whatsapp.py --template message.template --data data.csv
 ```
 
 Results are written to a file in a new file in the same folder.
